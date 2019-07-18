@@ -1,7 +1,10 @@
 
 JANU i love you
 i COnt wait i loss you
+<<<<<<< HEAD
 i will come to banglore
 now iam in hyderabad
 hyderabad to hot
 kelly
+=======
+>>>>>>> parent of 2583512... add 2 lines in remote

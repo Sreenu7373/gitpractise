@@ -1,8 +1,11 @@
 MY NAME is sreenivasulu
 iam doing courese DEVOPS
 living in HYDERABAD
+<<<<<<< HEAD
 cunny 
 bunny
 malik
 hgjdahgs
 dgjagdj
+=======
+>>>>>>> parent of 5942e6c... added 2 lines
